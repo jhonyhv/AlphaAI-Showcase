@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+  <title id="title">AlphaAI</title>
+  <desc id="desc">AlphaAI, Financial Intelligence.</desc>
+  <defs>
+    <linearGradient id="horizontal-gradient" x1="35" y1="218" x2="202" y2="27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F6FA1"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 8) scale(.875)">
+    <path fill="url(#horizontal-gradient)" fill-rule="evenodd" d="M128 15 239 231h-51l-24-49H92l-24 49H17L128 15Zm0 70-20 54h40l-20-54Z"/>
+    <path d="m29 218 68-67 29 28 57-57-14-14 61-21-21 61-14-14-69 69-29-28-45 45-23-2Z" fill="#F8FAFC" stroke="#07111F" stroke-linejoin="round" stroke-width="7"/>
+  </g>
+  <text x="244" y="132" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="8">ALPHA<tspan fill="#22D3EE">AI</tspan></text>
+  <text x="252" y="180" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="8">FINANCIAL INTELLIGENCE</text>
+</svg>
